@@ -1,0 +1,8 @@
+# Builds
+*.zip
+
+# Claude
+.claude/
+
+# MacOS
+.DS_Store
